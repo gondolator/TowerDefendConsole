@@ -1,0 +1,140 @@
+﻿  Quelle.cpp
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\tower.h(196): warning C4305: "*=": Verkürzung von "double" in "float"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\tower.h(217): warning C4305: "/=": Verkürzung von "double" in "float"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(43): warning C4305: "=": Verkürzung von "double" in "float"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(45): warning C4305: "=": Verkürzung von "double" in "float"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(49): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(51): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(53): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(55): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(57): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(59): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(61): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(63): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(150): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(158): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(165): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(169): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(192): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(232): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(240): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(247): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(254): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(266): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(272): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(283): warning C4305: "=": Verkürzung von "double" in "float"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(285): warning C4305: "=": Verkürzung von "double" in "float"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(288): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(290): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(292): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(294): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(296): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(298): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(300): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(302): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(315): warning C4805: "==": unsichere Kombination von Typ "int" mit Typ "bool" in einer Operation
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(347): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(357): warning C4805: "==": unsichere Kombination von Typ "bool" mit Typ "int" in einer Operation
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(368): warning C4805: "!=": unsichere Kombination von Typ "bool" mit Typ "int" in einer Operation
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(388): warning C4805: "==": unsichere Kombination von Typ "bool" mit Typ "int" in einer Operation
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(398): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(428): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(451): warning C4244: "Initialisierung": Konvertierung von "double" in "LONG64", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(462): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(464): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(466): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(468): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(470): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(473): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(503): warning C4244: "-=": Konvertierung von "double" in "LONG64", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(516): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(521): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(523): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(592): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(599): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(603): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(627): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(668): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(711): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(727): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(731): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(883): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(888): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(893): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(980): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(985): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1079): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1084): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1089): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1128): warning C4244: "Argument": Konvertierung von "int" in "_Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1141): warning C4805: "!=": unsichere Kombination von Typ "bool" mit Typ "int" in einer Operation
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1161): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1191): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1196): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1230): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1247): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1260): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1264): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1351): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1375): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1384): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1624): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1641): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1706): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1766): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1778): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1797): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1842): warning C4305: "=": Verkürzung von "double" in "float"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1844): warning C4305: "=": Verkürzung von "double" in "float"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1879): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1885): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1895): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1901): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1911): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1917): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1934): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1950): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(2086): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(2253): warning C4244: "=": Konvertierung von "_Ty" in "int", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(2327): warning C4244: "Argument": Konvertierung von "int" in "const _Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(2328): warning C4244: "Argument": Konvertierung von "int" in "const _Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(2328): warning C4244: "Argument": Konvertierung von "int" in "_Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(2328): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(2329): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(2329): warning C4244: "Argument": Konvertierung von "int" in "_Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(2330): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(2330): warning C4244: "Argument": Konvertierung von "int" in "_Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(2359): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(2379): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(2160): warning C4101: "inRec": Unreferenzierte lokale Variable
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\quelle.cpp(1202): warning C4715: "Load": Nicht alle Codepfade geben einen Wert zurück.
+c:\users\z003udrm\source\repos\towerdefend\towerdefend\tower.h(162): warning C4715: "tower::drawtype": Nicht alle Codepfade geben einen Wert zurück.
+  TowerDefend.vcxproj -> C:\Users\z003udrm\source\repos\TowerDefend\Debug\TowerDefend.exe
